@@ -1,0 +1,5 @@
+#!/usr/bin/env ash
+
+echo "Connecting to: [" $DYNAMO_ENDPOINT "]"
+
+dynamodb-admin
